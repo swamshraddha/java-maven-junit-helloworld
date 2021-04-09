@@ -25,6 +25,12 @@
     <mockito.version>2.21.0</mockito.version>
     <jacoco.plugin.version>0.8.1</jacoco.plugin.version>
   </properties>
+         
+   <properties>
+  <sonar.projectKey>swamshraddha_java-maven-junit-helloworld</sonar.projectKey>
+  <sonar.organization>swamshraddha</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 
   <dependencies>
     <!-- Testing dependencies. -->
